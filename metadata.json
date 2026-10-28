@@ -1,0 +1,6 @@
+{
+  "name": "StrataFinOps — Multi-Cloud Cost & Optimization Platform",
+  "description": "Enterprise multi-cloud FinOps dashboard for AWS, GCP, and Azure spend analytics, idle resource remediation, tag governance, and AI-assisted cost optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
