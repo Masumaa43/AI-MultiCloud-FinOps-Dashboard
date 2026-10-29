@@ -3,9 +3,10 @@
 ## 1. Project Overview
 - **Project Title:** StrataFinOps — Multi-Cloud FinOps and Cost Optimization Dashboard
 - **Team Members:**
-  - Member 1: [Enter Name] — Roll No: [Enter Roll Number]
-  - Member 2: [Enter Name] — Roll No: [Enter Roll Number]
-  - Member 3: [Enter Name] — Roll No: [Enter Roll Number]
+  - Member 1: Masuma Akhtar — Roll No: 24a12res364
+  - Member 2: Neehit Kumar — Roll No: 24a12res988
+  - Member 3: Arjeet Kumar — Roll No: 24a12res133
+  - Member 4: MD. Akbar Ali — Roll No: 24a12res980
 - **Technology Stack:** React 19, TypeScript, Tailwind CSS v4, Recharts, Lucide Icons, Vite
 - **Project Guide/Mentor:** [Enter Guide / Mentor Name & Designation]
 - **Project Objective:** To design and implement a centralized multi-cloud financial operations (FinOps) platform that aggregates cloud billing telemetry across AWS, Google Cloud Platform (GCP), and Microsoft Azure, detects real-time cost anomalies, enforces resource tag governance, and automates idle resource remediation.
